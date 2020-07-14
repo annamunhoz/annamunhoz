@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there! I'm Anna Munhoz. 👋
+
+This is my first year in code! 🤟 I'm currently a Flutter mobile dev at [Tokenlab](https://www.tokenlab.com.br/). I’m also working on some personal apps.
+
+### Let's talk about:
+- **Software related:** Flutter and Clean Code
+- **Other stuff:** GTD, art journals and collages
+
+### How to reach me:
+- LinkedIn: [https://www.linkedin.com/in/annamunhoz/](https://www.linkedin.com/in/annamunhoz/)
 
 <!--
 **annamunhoz/annamunhoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
