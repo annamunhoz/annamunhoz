@@ -1,4 +1,4 @@
-## Hi there! I'm Anna Munhoz. 👋
+## Hey there! I'm Anna Munhoz. 👋
 
 This is my first year in code! 🤟 I'm currently a Flutter mobile dev at [Tokenlab](https://www.tokenlab.com.br/). I’m also working on some personal apps.
 
