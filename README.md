@@ -4,6 +4,7 @@ This is my first year in code! 🤟 I'm currently a Flutter mobile dev at [Token
 
 #### Personal apps already published:
 - [Jornada de Trabalho](https://play.google.com/store/apps/details?id=work.munhoz.jornadadetrabalho)
+- [Classificar - Carcaça Bovina](https://play.google.com/store/apps/details?id=work.munhoz.classificarboi)
 
 ### Let's talk about:
 - **Software related:** Flutter and Clean Code
