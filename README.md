@@ -1,6 +1,6 @@
 ## Hey there! I'm Anna Munhoz. 👋
 
-I'm currently a mobile dev at [Tokenlab](https://www.tokenlab.com.br/). I’m also working on some personal apps.
+I'm currently working at [Mendelics](https://github.com/mendelics). I’m also working on some personal apps.
 
 #### Personal apps already published:
 - [Jornada de Trabalho](https://play.google.com/store/apps/details?id=work.munhoz.jornadadetrabalho)
