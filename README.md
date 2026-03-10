@@ -1,16 +1,9 @@
 ## Hey there! I'm Anna Munhoz. 👋
 
-I'm currently working at [Mendelics](https://github.com/mendelics). I’m also working on some personal apps.
-
-#### Personal apps already published:
-- [Jornada de Trabalho](https://play.google.com/store/apps/details?id=work.munhoz.jornadadetrabalho)
-- [Classificar - Carcaça Bovina](https://play.google.com/store/apps/details?id=work.munhoz.classificarboi)
-
-### Let's talk about:
-- **Software related:** Flutter and Clean Code
-- **Other stuff:** GTD, art journals and collages
+Developer on a creative break. Currently exploring projects around education, motherhood, and tea blends.
 
 ### How to reach me:
+- Substack: [https://annamunhoz.substack.com/]
 - LinkedIn: [https://www.linkedin.com/in/annamunhoz/](https://www.linkedin.com/in/annamunhoz/)
 
 <!--
