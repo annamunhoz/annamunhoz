@@ -3,7 +3,7 @@
 Developer on a creative break. Currently exploring projects around education, motherhood, and tea blends.
 
 ### How to reach me:
-- Substack: [https://annamunhoz.substack.com/]
+- Substack: [https://annamunhoz.substack.com/]https://annamunhoz.substack.com/)
 - LinkedIn: [https://www.linkedin.com/in/annamunhoz/](https://www.linkedin.com/in/annamunhoz/)
 
 <!--
